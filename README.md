@@ -3,7 +3,7 @@
 
 librairie général : 
 
-`* !pip install numpy`
+`* !pip install numpy`\n
 `* !pip install pandas`
 `* !pip install matplotlib`
 
