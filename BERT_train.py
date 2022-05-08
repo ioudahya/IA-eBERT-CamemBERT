@@ -13,8 +13,8 @@ module_url = "https://tfhub.dev/tensorflow/bert_en_uncased_L-12_H-768_A-12/1"
 bert_layer = hub.KerasLayer(module_url, trainable=True)
 
 
-train = pd.read_csv("BERT_Easy_Implementation/data/train.csv")
-test = pd.read_csv("BERT_Easy_Implementation/data/test.csv")
+train = pd.read_csv("DATASET/train.csv")
+test = pd.read_csv("DATASET/test.csv")
 
 
 def bert_encode(texts, tokenizer, max_len=512):
