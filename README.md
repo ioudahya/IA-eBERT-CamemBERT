@@ -1,5 +1,6 @@
 # Classification-context-eBERT-CamemBERT
 
+##Training 
 
 librairie général : 
 
@@ -30,5 +31,34 @@ pour BERT :
 
 `* !pip install tensorflow_hub`  
 
+##MLM 
 
+###pour CAMEMBERT : 
 
+`* !pip install sentencepiece`  
+
+`* !pip install regex`  
+
+`* !pip install hydra-core`
+
+`* !pip install omegaconf`  
+
+`* !pip install requests`  
+
+`* !pip install bitarray`
+
+`* !pip install torch`  
+
+`* !pip install sacrebleu`  
+
+`* !pip install dataclasses`
+
+`* !pip install xformers`  
+
+`* !pip install fairseq`  
+
+###pour BERT : 
+
+`* !pip install torch`  
+
+`* !pip install transformers`  
