@@ -1,8 +1,10 @@
 # Classification-context-eBERT-CamemBERT
 
-##Training 
+# Librairie à installer : 
 
-librairie général : 
+## Training 
+
+### librairie général : 
 
 `* !pip install numpy`  
 
@@ -11,7 +13,7 @@ librairie général :
 `* !pip install matplotlib`
 
 
-pour CAMEMBERT : 
+### pour CAMEMBERT : 
 
 
 `* !pip install torch`  
@@ -21,7 +23,7 @@ pour CAMEMBERT :
 `* !pip install sacrebleu`
 
 
-pour BERT : 
+### pour BERT : 
 
 `* !pip install tensorflow`  
 
@@ -33,7 +35,7 @@ pour BERT :
 
 ##MLM 
 
-###pour CAMEMBERT : 
+### pour CAMEMBERT : 
 
 `* !pip install sentencepiece`  
 
@@ -57,7 +59,7 @@ pour BERT :
 
 `* !pip install fairseq`  
 
-###pour BERT : 
+### pour BERT : 
 
 `* !pip install torch`  
 
