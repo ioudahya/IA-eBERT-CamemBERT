@@ -1,3 +1,4 @@
+#source https://medium.com/@vitalshchutski/french-nlp-entamez-le-camembert-avec-les-librairies-fast-bert-et-transformers-14e65f84c148
 import os
 import json
 import time
