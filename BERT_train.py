@@ -1,3 +1,4 @@
+#source https://github.com/tkeldenich/BERT_Easy_Implementation/blob/main/BERT.ipynb
 import tensorflow_hub as hub
 import pandas as pd
 import tokenization
